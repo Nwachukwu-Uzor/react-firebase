@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+button.google {
+  background-color: #696901;
+}
+
+button.github {
+  background-color: black;
+}
+
+button.data {
+  background-color: green;
+}
